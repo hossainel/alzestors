@@ -3,6 +3,6 @@
 <title>Alzestors</title>
 </head>
 <body>
-<p>Hello There!<p>
+<?php echo 'Hello There!';?>
 </body>
 </html>
