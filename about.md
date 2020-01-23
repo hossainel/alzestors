@@ -1,2 +1,0 @@
-# alzestors
-alzestors.github.io
