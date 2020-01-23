@@ -4,10 +4,7 @@
 </head>
 <body>
 <?php 
-  echo 'Hello There!';
-  for($i=0; $i < 10; $i++){
-    echo $i;  
-  }
+  echo 'Hi There!';
 ?>
 </body>
 </html>
